@@ -1,0 +1,17 @@
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.Tests.deps.json
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.Tests.runtimeconfig.json
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.Tests.runtimeconfig.dev.json
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.Tests.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.Tests.pdb
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp2.2\Calendar.pdb
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.csprojAssemblyReference.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.AssemblyInfoInputs.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.AssemblyInfo.cs
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.csproj.CopyComplete
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp2.2\Calendar.Tests.pdb

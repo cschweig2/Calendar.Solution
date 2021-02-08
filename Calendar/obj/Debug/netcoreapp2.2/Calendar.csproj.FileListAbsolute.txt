@@ -1,0 +1,9 @@
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp2.2\Calendar.deps.json
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp2.2\Calendar.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\bin\Debug\netcoreapp2.2\Calendar.pdb
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.csprojAssemblyReference.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.AssemblyInfoInputs.cache
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.AssemblyInfo.cs
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.dll
+C:\Users\Chelsea\Desktop\Calendar.Solution\Calendar\obj\Debug\netcoreapp2.2\Calendar.pdb
